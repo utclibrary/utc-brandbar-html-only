@@ -16,3 +16,6 @@ The University of Tennessee at Chattanooga Brand Bars for general use. There are
 <hr />
 
 <strong>Brand Bar V4:</strong> Built on V3 with external CSS and JS.
+
+<hr />
+Test commit.
